@@ -1,1 +1,21 @@
-
+#
+# 	Lembre-se de realizar os seguintes procedimentos ao incorporar sua imagens:
+    1) Na URL abaixo, exclua "blob/"
+	
+	https://github.com/wevertonjlima/blog-assets/blob/main/posts/zabbix-v7.2_ubuntu-v24.04/zabbix-7v2-web-installation-01.png
+	
+	
+	2) Substitua:
+	https://github.com/
+	
+	por
+	https://raw.githubusercontent.com/
+	
+	
+	3) Resultado final:
+	https://raw.githubusercontent.com/wevertonjlima/blog-assets/main/posts/zabbix-v7.2_ubuntu-v24.04/zabbix-7v2-web-installation-01.png
+	
+	4) Lembre-se do Markdown:
+	![Titulo da imagem](url-da-imagem)
+	
+#
